@@ -20,6 +20,7 @@
 - Java Swing (GUI)
 
 ---
+snake.png
 
 ### 🧠 **Learning Goals**:
 - Event-driven programming
