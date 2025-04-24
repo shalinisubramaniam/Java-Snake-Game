@@ -20,7 +20,6 @@
 - Java Swing (GUI)
 
 ---
-snake.png
 
 ### 🧠 **Learning Goals**:
 - Event-driven programming
@@ -29,3 +28,4 @@ snake.png
 - Collision detection and object movement
 
 ---
+https://github.com/shalinisubramaniam/Java-Snake-Game/blob/ef75b89856c6cce6c77c47dd2ce4a878118c8a9c/snake.png
