@@ -28,4 +28,5 @@
 - Collision detection and object movement
 
 ---
-https://github.com/shalinisubramaniam/Java-Snake-Game/blob/ef75b89856c6cce6c77c47dd2ce4a878118c8a9c/snake.png
+![image](https://github.com/user-attachments/assets/33feb2a4-d760-43d5-af87-7faa847d5c07)
+
