@@ -1,4 +1,6 @@
 # Java-Snake-Game
+![image](https://github.com/user-attachments/assets/f1cf4ed0-0d97-4107-bcbd-9f52fc6194db)
+
 ### ✨ **Repository Name**: `java-snake-game`
 
 ### 📄 **Description**:
@@ -26,7 +28,3 @@
 - 2D game rendering in Java
 - Threading and game loops
 - Collision detection and object movement
-
----
-![image](https://github.com/user-attachments/assets/33feb2a4-d760-43d5-af87-7faa847d5c07)
-
